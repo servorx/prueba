@@ -7,6 +7,7 @@ namespace prueba;
 
 public class VariedadesDetalladasPdfDocument : IDocument
 {
+    // esto lo que hace es mostrar todas las variedad incluyendo todos los detalles posibles, incluso los de las clases de HistoriaGenetica y AtributoAgronomo
     private readonly List<Variedad> _variedades;
 
     public VariedadesDetalladasPdfDocument(List<Variedad> variedades)

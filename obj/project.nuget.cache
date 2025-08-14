@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4/KCT9wK72M=",
+  "dgSpecHash": "BA/FwRph4Lo=",
   "success": true,
-  "projectFilePath": "/home/angel/Desktop/prueba/prueba.csproj",
+  "projectFilePath": "/home/camper/Desktop/dotnet_projects/prueba/prueba.csproj",
   "expectedPackageFiles": [
-    "/home/angel/.nuget/packages/aspose.words/25.8.0/aspose.words.25.8.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/questpdf/2025.7.0/questpdf.2025.7.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/skiasharp/3.119.0/skiasharp.3.119.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/skiasharp.nativeassets.macos/3.119.0/skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/skiasharp.nativeassets.win32/3.119.0/skiasharp.nativeassets.win32.3.119.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
-    "/home/angel/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512"
+    "/home/camper/.nuget/packages/aspose.words/25.8.0/aspose.words.25.8.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/questpdf/2025.7.0/questpdf.2025.7.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/skiasharp/3.119.0/skiasharp.3.119.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/skiasharp.nativeassets.macos/3.119.0/skiasharp.nativeassets.macos.3.119.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/skiasharp.nativeassets.win32/3.119.0/skiasharp.nativeassets.win32.3.119.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/home/camper/.nuget/packages/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

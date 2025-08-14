@@ -567,25 +567,24 @@
     ]
   },
   "packageFolders": {
-    "/home/angel/.nuget/packages/": {}
+    "/home/camper/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/angel/Desktop/prueba/prueba.csproj",
+      "projectUniqueName": "/home/camper/Desktop/dotnet_projects/prueba/prueba.csproj",
       "projectName": "prueba",
-      "projectPath": "/home/angel/Desktop/prueba/prueba.csproj",
-      "packagesPath": "/home/angel/.nuget/packages/",
-      "outputPath": "/home/angel/Desktop/prueba/obj/",
+      "projectPath": "/home/camper/Desktop/dotnet_projects/prueba/prueba.csproj",
+      "packagesPath": "/home/camper/.nuget/packages/",
+      "outputPath": "/home/camper/Desktop/dotnet_projects/prueba/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/angel/.nuget/NuGet/NuGet.Config"
+        "/home/camper/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -604,7 +603,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -635,7 +634,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

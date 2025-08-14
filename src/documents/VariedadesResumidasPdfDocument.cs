@@ -7,6 +7,7 @@ namespace prueba;
 
 public class VariedadesResumidasPdfDocument : IDocument
 {
+    // este lo que hace es mostrar todas las variedades pero de forma resumida en un pdf 
     private readonly List<Variedad> _variedades;
 
     public VariedadesResumidasPdfDocument(List<Variedad> variedades)
